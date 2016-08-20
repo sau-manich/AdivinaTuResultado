@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adivinaTUresultado", "adivinaTUresultado\adivinaTUresultado.csproj", "{120801EA-B574-45D3-B1D1-2992DC8F2CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{120801EA-B574-45D3-B1D1-2992DC8F2CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120801EA-B574-45D3-B1D1-2992DC8F2CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120801EA-B574-45D3-B1D1-2992DC8F2CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120801EA-B574-45D3-B1D1-2992DC8F2CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

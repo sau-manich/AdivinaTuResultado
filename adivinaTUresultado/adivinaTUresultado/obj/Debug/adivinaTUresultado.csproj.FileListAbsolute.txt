@@ -1,0 +1,12 @@
+c:\users\acer\documents\visual studio 2012\Projects\adivinaTUresultado\adivinaTUresultado\bin\Debug\adivinaTUresultado.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\adivinaTUresultado\adivinaTUresultado\obj\Debug\adivinaTUresultado.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\adivinaTUresultado\adivinaTUresultado\bin\Debug\adivinaTUresultado.exe
+c:\users\acer\documents\visual studio 2012\Projects\adivinaTUresultado\adivinaTUresultado\bin\Debug\adivinaTUresultado.pdb
+c:\users\acer\documents\visual studio 2012\Projects\adivinaTUresultado\adivinaTUresultado\obj\Debug\adivinaTUresultado.exe
+c:\users\acer\documents\visual studio 2012\Projects\adivinaTUresultado\adivinaTUresultado\obj\Debug\adivinaTUresultado.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\adivinaTUresultado\adivinaTUresultado\bin\Debug\adivinaTUresultado.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\adivinaTUresultado\adivinaTUresultado\obj\Debug\adivinaTUresultado.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\adivinaTUresultado\adivinaTUresultado\obj\Debug\adivinaTUresultado.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\adivinaTUresultado\adivinaTUresultado\bin\Debug\adivinaTUresultado.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\adivinaTUresultado\adivinaTUresultado\bin\Debug\adivinaTUresultado.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\adivinaTUresultado\adivinaTUresultado\obj\Debug\adivinaTUresultado.csprojResolveAssemblyReference.cache
